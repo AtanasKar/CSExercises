@@ -1,6 +1,6 @@
-class Cyrcle : Shape, IEllipse
+class Circle : Shape, IEllipse
 {
-    public Cyrcle(double r)
+    public Circle(double r)
     {
         this.r = r;
     }
