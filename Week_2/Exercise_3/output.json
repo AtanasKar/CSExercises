@@ -1,0 +1,1700 @@
+[
+  {
+    "TagName": "COLLADA",
+    "Attributes": {
+      "xmlns": "http://www.collada.org/2005/11/COLLADASchema",
+      "version": "1.4.1"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "asset",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "contributor",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "author",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "authoring_tool",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "source_data",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "created",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "modified",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "unit",
+    "Attributes": {
+      "name": "centimeter",
+      "meter": "0.01"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "up_axis",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "library_effects",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "effect",
+    "Attributes": {
+      "id": "Material__26__Plane001_"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "profile_COMMON",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique",
+    "Attributes": {
+      "sid": "common"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "blinn",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "emission",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "ambient",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "diffuse",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "specular",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "shininess",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "float",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "reflective",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "transparent",
+    "Attributes": {
+      "opaque": "A_ONE"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "transparency",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "float",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "extra",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique",
+    "Attributes": {
+      "profile": "OpenCOLLADA3dsMax"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "extended_shader",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "opacity_type",
+    "Attributes": {
+      "sid": "opacity_type",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "falloff_type",
+    "Attributes": {
+      "sid": "falloff_type",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "falloff",
+    "Attributes": {
+      "sid": "falloff",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "index_of_refraction",
+    "Attributes": {
+      "sid": "index_of_refraction",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "wire_size",
+    "Attributes": {
+      "sid": "wire_size",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "wire_units",
+    "Attributes": {
+      "sid": "wire_units",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "apply_reflection_dimming",
+    "Attributes": {
+      "sid": "apply_reflection_dimming",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "dim_level",
+    "Attributes": {
+      "sid": "dim_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "reflection_level",
+    "Attributes": {
+      "sid": "reflection_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "shader",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "ambient_diffuse_texture_lock",
+    "Attributes": {
+      "sid": "ambient_diffuse_texture_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "ambient_diffuse_lock",
+    "Attributes": {
+      "sid": "ambient_diffuse_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "diffuse_specular_lock",
+    "Attributes": {
+      "sid": "diffuse_specular_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "use_self_illum_color",
+    "Attributes": {
+      "sid": "use_self_illum_color",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "self_illumination",
+    "Attributes": {
+      "sid": "self_illumination",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "specular_level",
+    "Attributes": {
+      "sid": "specular_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "soften",
+    "Attributes": {
+      "sid": "soften",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "effect",
+    "Attributes": {
+      "id": "Material__25__Box001_"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "profile_COMMON",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique",
+    "Attributes": {
+      "sid": "common"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "blinn",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "emission",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "ambient",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "diffuse",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "specular",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "shininess",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "float",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "reflective",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "transparent",
+    "Attributes": {
+      "opaque": "A_ONE"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "transparency",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "float",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "extra",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique",
+    "Attributes": {
+      "profile": "OpenCOLLADA3dsMax"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "extended_shader",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "opacity_type",
+    "Attributes": {
+      "sid": "opacity_type",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "falloff_type",
+    "Attributes": {
+      "sid": "falloff_type",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "falloff",
+    "Attributes": {
+      "sid": "falloff",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "index_of_refraction",
+    "Attributes": {
+      "sid": "index_of_refraction",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "wire_size",
+    "Attributes": {
+      "sid": "wire_size",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "wire_units",
+    "Attributes": {
+      "sid": "wire_units",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "apply_reflection_dimming",
+    "Attributes": {
+      "sid": "apply_reflection_dimming",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "dim_level",
+    "Attributes": {
+      "sid": "dim_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "reflection_level",
+    "Attributes": {
+      "sid": "reflection_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "shader",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "ambient_diffuse_texture_lock",
+    "Attributes": {
+      "sid": "ambient_diffuse_texture_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "ambient_diffuse_lock",
+    "Attributes": {
+      "sid": "ambient_diffuse_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "diffuse_specular_lock",
+    "Attributes": {
+      "sid": "diffuse_specular_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "use_self_illum_color",
+    "Attributes": {
+      "sid": "use_self_illum_color",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "self_illumination",
+    "Attributes": {
+      "sid": "self_illumination",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "specular_level",
+    "Attributes": {
+      "sid": "specular_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "soften",
+    "Attributes": {
+      "sid": "soften",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "effect",
+    "Attributes": {
+      "id": "ColorEffectR87G120B204"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "profile_COMMON",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique",
+    "Attributes": {
+      "sid": "common"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "phong",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "ambient",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "diffuse",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "specular",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "shininess",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "float",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "reflective",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "transparent",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "transparency",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "float",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "library_materials",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "material",
+    "Attributes": {
+      "id": "ColorEffectR87G120B204-material",
+      "name": "ColorEffectR87G120B204-material"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "instance_effect",
+    "Attributes": {
+      "url": "#ColorEffectR87G120B204"
+    },
+    "Connection": "ColorEffectR87G120B204"
+  },
+  {
+    "TagName": "material",
+    "Attributes": {
+      "id": "Material__26__Plane001_-material",
+      "name": "Material__26__Plane001_"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "instance_effect",
+    "Attributes": {
+      "url": "#Material__26__Plane001_"
+    },
+    "Connection": "Material__26__Plane001_"
+  },
+  {
+    "TagName": "material",
+    "Attributes": {
+      "id": "Material__25__Box001_-material",
+      "name": "Material__25__Box001_"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "instance_effect",
+    "Attributes": {
+      "url": "#Material__25__Box001_"
+    },
+    "Connection": "Material__25__Box001_"
+  },
+  {
+    "TagName": "library_geometries",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "geometry",
+    "Attributes": {
+      "id": "geom-Plane001",
+      "name": "Plane001"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "mesh",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "source",
+    "Attributes": {
+      "id": "geom-Plane001-positions"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "float_array",
+    "Attributes": {
+      "id": "geom-Plane001-positions-array",
+      "count": "75"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "accessor",
+    "Attributes": {
+      "source": "#geom-Plane001-positions-array",
+      "count": "25",
+      "stride": "3"
+    },
+    "Connection": "geom-Plane001-positions-array"
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "X",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "Y",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "Z",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "source",
+    "Attributes": {
+      "id": "geom-Plane001-normals"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "float_array",
+    "Attributes": {
+      "id": "geom-Plane001-normals-array",
+      "count": "75"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "accessor",
+    "Attributes": {
+      "source": "#geom-Plane001-normals-array",
+      "count": "25",
+      "stride": "3"
+    },
+    "Connection": "geom-Plane001-normals-array"
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "X",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "Y",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "Z",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "source",
+    "Attributes": {
+      "id": "geom-Plane001-map1"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "float_array",
+    "Attributes": {
+      "id": "geom-Plane001-map1-array",
+      "count": "75"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "accessor",
+    "Attributes": {
+      "source": "#geom-Plane001-map1-array",
+      "count": "25",
+      "stride": "3"
+    },
+    "Connection": "geom-Plane001-map1-array"
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "S",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "T",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "P",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "source",
+    "Attributes": {
+      "id": "geom-Plane001-map2"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "float_array",
+    "Attributes": {
+      "id": "geom-Plane001-map2-array",
+      "count": "75"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "accessor",
+    "Attributes": {
+      "source": "#geom-Plane001-map2-array",
+      "count": "25",
+      "stride": "3"
+    },
+    "Connection": "geom-Plane001-map2-array"
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "S",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "T",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "P",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "vertices",
+    "Attributes": {
+      "id": "geom-Plane001-vertices"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "POSITION",
+      "source": "#geom-Plane001-positions"
+    },
+    "Connection": "geom-Plane001-positions"
+  },
+  {
+    "TagName": "triangles",
+    "Attributes": {
+      "material": "baked_Material__26",
+      "count": "32"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "VERTEX",
+      "source": "#geom-Plane001-vertices",
+      "offset": "0"
+    },
+    "Connection": "geom-Plane001-vertices"
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "NORMAL",
+      "source": "#geom-Plane001-normals",
+      "offset": "1"
+    },
+    "Connection": "geom-Plane001-normals"
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "TEXCOORD",
+      "source": "#geom-Plane001-map1",
+      "offset": "2",
+      "set": "0"
+    },
+    "Connection": "geom-Plane001-map1"
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "TEXCOORD",
+      "source": "#geom-Plane001-map2",
+      "offset": "3",
+      "set": "1"
+    },
+    "Connection": "geom-Plane001-map2"
+  },
+  {
+    "TagName": "p",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "geometry",
+    "Attributes": {
+      "id": "geom-Box001",
+      "name": "Box001"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "mesh",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "source",
+    "Attributes": {
+      "id": "geom-Box001-positions"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "float_array",
+    "Attributes": {
+      "id": "geom-Box001-positions-array",
+      "count": "24"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "accessor",
+    "Attributes": {
+      "source": "#geom-Box001-positions-array",
+      "count": "8",
+      "stride": "3"
+    },
+    "Connection": "geom-Box001-positions-array"
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "X",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "Y",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "Z",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "source",
+    "Attributes": {
+      "id": "geom-Box001-normals"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "float_array",
+    "Attributes": {
+      "id": "geom-Box001-normals-array",
+      "count": "72"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "accessor",
+    "Attributes": {
+      "source": "#geom-Box001-normals-array",
+      "count": "24",
+      "stride": "3"
+    },
+    "Connection": "geom-Box001-normals-array"
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "X",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "Y",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "Z",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "source",
+    "Attributes": {
+      "id": "geom-Box001-map1"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "float_array",
+    "Attributes": {
+      "id": "geom-Box001-map1-array",
+      "count": "36"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "accessor",
+    "Attributes": {
+      "source": "#geom-Box001-map1-array",
+      "count": "12",
+      "stride": "3"
+    },
+    "Connection": "geom-Box001-map1-array"
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "S",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "T",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "P",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "source",
+    "Attributes": {
+      "id": "geom-Box001-map2"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "float_array",
+    "Attributes": {
+      "id": "geom-Box001-map2-array",
+      "count": "72"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "accessor",
+    "Attributes": {
+      "source": "#geom-Box001-map2-array",
+      "count": "24",
+      "stride": "3"
+    },
+    "Connection": "geom-Box001-map2-array"
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "S",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "T",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "param",
+    "Attributes": {
+      "name": "P",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "vertices",
+    "Attributes": {
+      "id": "geom-Box001-vertices"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "POSITION",
+      "source": "#geom-Box001-positions"
+    },
+    "Connection": "geom-Box001-positions"
+  },
+  {
+    "TagName": "triangles",
+    "Attributes": {
+      "material": "baked_Material__25",
+      "count": "12"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "VERTEX",
+      "source": "#geom-Box001-vertices",
+      "offset": "0"
+    },
+    "Connection": "geom-Box001-vertices"
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "NORMAL",
+      "source": "#geom-Box001-normals",
+      "offset": "1"
+    },
+    "Connection": "geom-Box001-normals"
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "TEXCOORD",
+      "source": "#geom-Box001-map1",
+      "offset": "2",
+      "set": "0"
+    },
+    "Connection": "geom-Box001-map1"
+  },
+  {
+    "TagName": "input",
+    "Attributes": {
+      "semantic": "TEXCOORD",
+      "source": "#geom-Box001-map2",
+      "offset": "3",
+      "set": "1"
+    },
+    "Connection": "geom-Box001-map2"
+  },
+  {
+    "TagName": "p",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "library_cameras",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "camera",
+    "Attributes": {
+      "id": "PhysCamera001-camera",
+      "name": "PhysCamera001"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "optics",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "perspective",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "xfov",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "znear",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "zfar",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "library_lights",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "light",
+    "Attributes": {
+      "id": "EnvironmentAmbientLight",
+      "name": "EnvironmentAmbientLight"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "ambient",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "color",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "library_visual_scenes",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "visual_scene",
+    "Attributes": {
+      "id": "MaxScene"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "node",
+    "Attributes": {
+      "name": "EnvironmentAmbientLight"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "instance_light",
+    "Attributes": {
+      "url": "#EnvironmentAmbientLight"
+    },
+    "Connection": "EnvironmentAmbientLight"
+  },
+  {
+    "TagName": "node",
+    "Attributes": {
+      "id": "node-Plane001",
+      "name": "Plane001"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "matrix",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "instance_geometry",
+    "Attributes": {
+      "url": "#geom-Plane001"
+    },
+    "Connection": "geom-Plane001"
+  },
+  {
+    "TagName": "bind_material",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "instance_material",
+    "Attributes": {
+      "symbol": "baked_Material__26",
+      "target": "#Material__26__Plane001_-material"
+    },
+    "Connection": "Material__26__Plane001_-material"
+  },
+  {
+    "TagName": "extra",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique",
+    "Attributes": {
+      "profile": "OpenCOLLADA"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "cast_shadows",
+    "Attributes": {
+      "sid": "cast_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "receive_shadows",
+    "Attributes": {
+      "sid": "receive_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "primary_visibility",
+    "Attributes": {
+      "sid": "primary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "secondary_visibility",
+    "Attributes": {
+      "sid": "secondary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "node",
+    "Attributes": {
+      "id": "node-Box001",
+      "name": "Box001"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "matrix",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "instance_geometry",
+    "Attributes": {
+      "url": "#geom-Box001"
+    },
+    "Connection": "geom-Box001"
+  },
+  {
+    "TagName": "bind_material",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique_common",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "instance_material",
+    "Attributes": {
+      "symbol": "baked_Material__25",
+      "target": "#Material__25__Box001_-material"
+    },
+    "Connection": "Material__25__Box001_-material"
+  },
+  {
+    "TagName": "extra",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique",
+    "Attributes": {
+      "profile": "OpenCOLLADA"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "cast_shadows",
+    "Attributes": {
+      "sid": "cast_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "receive_shadows",
+    "Attributes": {
+      "sid": "receive_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "primary_visibility",
+    "Attributes": {
+      "sid": "primary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "secondary_visibility",
+    "Attributes": {
+      "sid": "secondary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "node",
+    "Attributes": {
+      "id": "node-PhysCamera001",
+      "name": "PhysCamera001"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "matrix",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "instance_camera",
+    "Attributes": {
+      "url": "#PhysCamera001-camera"
+    },
+    "Connection": "PhysCamera001-camera"
+  },
+  {
+    "TagName": "extra",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique",
+    "Attributes": {
+      "profile": "OpenCOLLADA"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "cast_shadows",
+    "Attributes": {
+      "sid": "cast_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "receive_shadows",
+    "Attributes": {
+      "sid": "receive_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "primary_visibility",
+    "Attributes": {
+      "sid": "primary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "secondary_visibility",
+    "Attributes": {
+      "sid": "secondary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "node",
+    "Attributes": {
+      "id": "node-PhysCamera001.Target",
+      "name": "PhysCamera001.Target"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "matrix",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "extra",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "technique",
+    "Attributes": {
+      "profile": "OpenCOLLADA"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "cast_shadows",
+    "Attributes": {
+      "sid": "cast_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "receive_shadows",
+    "Attributes": {
+      "sid": "receive_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "primary_visibility",
+    "Attributes": {
+      "sid": "primary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "secondary_visibility",
+    "Attributes": {
+      "sid": "secondary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "TagName": "scene",
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "TagName": "instance_visual_scene",
+    "Attributes": {
+      "url": "#MaxScene"
+    },
+    "Connection": "MaxScene"
+  }
+]
