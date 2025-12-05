@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b4Z03XY+fX0=",
+  "success": true,
+  "projectFilePath": "D:\\Code\\CSExercises\\Week_2\\Exercise_3\\Exercise_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nasko\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\Nasko\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\Nasko\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

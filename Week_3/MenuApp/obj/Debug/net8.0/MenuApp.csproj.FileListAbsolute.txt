@@ -1,0 +1,15 @@
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\MenuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\MenuApp.AssemblyInfoInputs.cache
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\MenuApp.AssemblyInfo.cs
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\MenuApp.csproj.CoreCompileInputs.cache
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\MenuApp.sourcelink.json
+D:\Code\CSExercises\Week_3\MenuApp\bin\Debug\net8.0\MenuApp.exe
+D:\Code\CSExercises\Week_3\MenuApp\bin\Debug\net8.0\MenuApp.deps.json
+D:\Code\CSExercises\Week_3\MenuApp\bin\Debug\net8.0\MenuApp.runtimeconfig.json
+D:\Code\CSExercises\Week_3\MenuApp\bin\Debug\net8.0\MenuApp.dll
+D:\Code\CSExercises\Week_3\MenuApp\bin\Debug\net8.0\MenuApp.pdb
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\MenuApp.dll
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\refint\MenuApp.dll
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\MenuApp.pdb
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\MenuApp.genruntimeconfig.cache
+D:\Code\CSExercises\Week_3\MenuApp\obj\Debug\net8.0\ref\MenuApp.dll

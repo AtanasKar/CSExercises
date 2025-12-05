@@ -1,0 +1,15 @@
+D:\Code\CSExercises\Week_3\Exercise_1\bin\Debug\net8.0\Exercise_1.exe
+D:\Code\CSExercises\Week_3\Exercise_1\bin\Debug\net8.0\Exercise_1.deps.json
+D:\Code\CSExercises\Week_3\Exercise_1\bin\Debug\net8.0\Exercise_1.runtimeconfig.json
+D:\Code\CSExercises\Week_3\Exercise_1\bin\Debug\net8.0\Exercise_1.dll
+D:\Code\CSExercises\Week_3\Exercise_1\bin\Debug\net8.0\Exercise_1.pdb
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\Exercise_1.AssemblyInfoInputs.cache
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\Exercise_1.AssemblyInfo.cs
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\Exercise_1.csproj.CoreCompileInputs.cache
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\Exercise_1.sourcelink.json
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\Exercise_1.dll
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\refint\Exercise_1.dll
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\Exercise_1.pdb
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\Exercise_1.genruntimeconfig.cache
+D:\Code\CSExercises\Week_3\Exercise_1\obj\Debug\net8.0\ref\Exercise_1.dll

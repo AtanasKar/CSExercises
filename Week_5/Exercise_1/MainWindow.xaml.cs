@@ -32,7 +32,6 @@ namespace Exercise_1
 
             for (int i = 1; i <= 100; i++)
             {
-
                 Thread.Sleep(100);
 
                 Dispatcher.Invoke(() =>
